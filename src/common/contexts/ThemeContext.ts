@@ -1,5 +1,5 @@
 import { createContext } from "react";
-import { Theme } from "../models/Theme";
+import { Theme } from "../../models/Theme";
 type ThemeContextProps = {
   theme: Theme;
   toggleTheme: () => void;

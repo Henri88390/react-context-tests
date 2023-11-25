@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ThemeContext } from "../../contexts/ThemeContext";
+import { ThemeContext } from "../../common/contexts/ThemeContext";
 import { Theme } from "../../models/Theme";
 import { Page } from "../../views/Page/Page";
 import { Page2 } from "../../views/Page2/Page2";
